@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gaeun. I'm a beginner. 
+- 👋 Hi, I'm a beginner. 
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning HTML, CSS and JS.
 - 📫 How to reach me? gaeun0321@gmail.com
